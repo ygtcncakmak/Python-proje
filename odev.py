@@ -13,4 +13,4 @@ for i in range(0,len(a),1):
 print(a)
 
 print("asjflasfj")
-print("bunu okuyan tosun okuyana kosun")
+print("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
