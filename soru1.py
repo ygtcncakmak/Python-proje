@@ -27,11 +27,7 @@ def harfdeger(a):
 
 
 b=int(input("lütfen sınav puanınızı giriniz"))
-b=int(input("lütfen sınav puanınızı giriniz"))
-b=int(input("lütfen sınav puanınızı giriniz"))
-b=int(input("lütfen sınav puanınızı giriniz"))
-b=int(input("lütfen sınav puanınızı giriniz"))
-b=int(input("lütfen sınav puanınızı giriniz"))
+
 harfdeger(b)
 
 
