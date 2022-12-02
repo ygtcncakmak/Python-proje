@@ -1,4 +1,5 @@
 import random
+# random sayıyı tahmin etme oyunu
 
 def tahmin(kackere,sayı):
     for i in range(0,kackere,1):

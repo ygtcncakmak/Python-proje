@@ -1,3 +1,4 @@
+# sınav puanına göre harf notunu ekrana yazdıran uygulama
 def harfdeger(a):
 
     if (a >= 85 and a < 100):
